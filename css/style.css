@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding;:0
+}
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style-type: none;
+}
+.my_font_col{
+    color: goldenrod;
+}
+.head{
+    background-color: rgb(247, 247, 247);
+}
+.my_font-col_2{
+    color: rgb(70, 96, 107);
+
+}
+h1{
+    font-weight: 700;
+    font-size: 60px;
+}
+.buy_btn{
+    background: rgb(120, 129, 39)
+}
+.buy_btn a{
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.buy_btn i{
+    color: white;
+    font-size: 16px;
+    margin-right: 10px;
+}
+.profile_pic img{
+    width: 100%;
+}
+.product{
+    border: none;
+}
+.card-footer h5{
+    font-weight: 700;
+}
+.card_radious{
+    border-radius: 10px;
+}
+.featur_img img{
+    width:100%;
+}
+.feedback{
+    height: 500px;
+}
+textarea {
+    /* width: 100%; */
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
